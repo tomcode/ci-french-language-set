@@ -6,6 +6,7 @@ $lang['db_unable_to_select'] = 'Impossible de s&eacute;lectionner cette base de 
 $lang['db_unable_to_create'] = 'Impossible de cr&eacute;er cette base de donn&eacute;es : %s';
 $lang['db_invalid_query'] = 'La requ&ecirc;te que vous avez fournie est invalide.';
 $lang['db_must_set_table'] = 'Vous devez sp&eacute;cifier une table pour effectuer votre requ&ecirc;te.';
+$lang['db_must_set_database'] = 'Le nom de la base de donn&eacute;es doit &ecirc;tre sp&eacute;cifi&eacutee dans le fichier de configuration.';
 $lang['db_must_use_set'] = 'Vous devez utiliser la m&eacute;thode "set()" pour mettre &agrave; jour une entr&eacute;e.';
 $lang['db_must_use_where'] = 'Il faut obligatoirement sp&eacute;cifier la clause "WHERE" pour mettre &agrave; jour une entr&eacute;e.';
 $lang['db_del_must_use_where'] = 'Il faut obligatoirement sp&eacute;cifier la clause "WHERE" pour supprimer une entr&eacute;e.';

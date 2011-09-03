@@ -2,7 +2,7 @@
 
 $lang['upload_userfile_not_set'] = "Impossible de trouver une variable de type POST nomm&eacute;e userfile.";
 $lang['upload_file_exceeds_limit'] = "Le fichier envoy&eacute; d&eacute;passe la taille limite d&eacute;finie dans votre fichier de configuration PHP.";
-$lang['upload_file_exceeds_form_limit'] = "Le fichier chargé d&eacute;passe la taille limite d&eacute;finie par le formulaire de soumission.";
+$lang['upload_file_exceeds_form_limit'] = "Le fichier charg&eacute; d&eacute;passe la taille limite d&eacute;finie par le formulaire de soumission.";
 $lang['upload_file_partial'] = "Le fichier n'a &eacute;t&eacute; que partiellement envoy&eacute;.";
 $lang['upload_no_temp_directory'] = "Le dossier temporaire manque.";
 $lang['upload_unable_to_write_file'] = "Incapable d'&eacute;crire le fichier sur disque.";

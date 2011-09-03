@@ -20,5 +20,5 @@ $lang['is_natural']			= "Le champ %s ne peut contenir que des nombres positifs."
 $lang['is_natural_no_zero']	= "Le champ %s ne peut contenir que des nombres plus grand que z&eacute;.";
 
 
-/* End of file validation_lang.php */
-/* Location: ./system/language/french/validation_lang.php */
+/* End of file form_validation_lang.php */
+/* Location: ./system/language/french/form_validation_lang.php */
