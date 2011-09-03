@@ -17,7 +17,7 @@ $lang['date_seconds'] = "Secondes";
 
 $lang['UM12']	= "(UTC - 12:00) &Icirc;les Baker / Howland";
 $lang['UM11']	= "(UTC - 11:00) Samoa fuseau horaire, Niue";
-$lang['UM10']	= "(UTC - 10:00) Hawaï et les Aléoutiennes, &Icirc;les Cook, Tahiti";
+$lang['UM10']	= "(UTC - 10:00) Hawa&iuml; et les Al&eacute;outiennes, &Icirc;les Cook, Tahiti";
 $lang['UM95']	= '(UTC -9:30) &Icirc;les Marquises';
 $lang['UM9']	= "(UTC - 9:00) Heure normale d'Alaska, &Icirc;les Gambier";
 $lang['UM8']	= "(UTC - 8:00) Heure du Pacifique";
@@ -28,7 +28,7 @@ $lang['UM45']	= '(UTC -4:30) Heure normale v&eacute;n&eacute;zu&eacute;lienne';
 $lang['UM4']	= "(UTC - 4:00) Heure de l'Atlantique, heure normale de l'Est des Cara&iuml;bes";
 $lang['UM35']	= '(UTC -3:30) Heure normale de Terre-Neuve';
 $lang['UM3']	= "(UTC - 3:00) Argentine, Br&eacute;sil, Guyane Française, Uruguay";
-$lang['UM2']	= "(UTC - 2:00) Géorgie du Sud/&Icirc;les Sandwich du Sud";
+$lang['UM2']	= "(UTC - 2:00) G&eacute;orgie du Sud/&Icirc;les Sandwich du Sud";
 $lang['UM1']	= "(UTC - 1:00) A&ccedil;ores, Cap-Vert";
 $lang['UTC']	= "(UTC) Greenwich heure normale, Heure d'Europe occidentale";
 $lang['UP1']	= "(UTC + 1:00) Heure d'Europe centrale, heure normale d'Afrique de l'ouest";
@@ -45,16 +45,17 @@ $lang['UP65']	= '(UTC +6:30) &Icirc;les Cocos, Myanmar';
 $lang['UP7']	= "(UTC + 7:00) Heure Krasno&iuml;arsk, Cambodge, Laos, Tha&iuml;lande, Vi&ecirc;t Nam";
 $lang['UP8']	= "(UTC + 8:00) Heure normale de l'ouest d'Australie, heure Beijing, Irkoutsk";
 $lang['UP875']	= "(UTC +8:45) Heure normale de l'ouest de l'Australie centrale";
-$lang['UP9']	= "(UTC + 9:00) Heure normale du Japon, heure normale de la Corée, heure Yakutsk";
+$lang['UP9']	= "(UTC + 9:00) Heure normale du Japon, heure normale de la Cor&eacute;e, heure Yakutsk";
 $lang['UP95']	= "(UTC + 9:30) Heure normale de l'Australie centrale";
 $lang['UP10']	= "(UTC + 10:00) Heure normale de l'Australie occidentale, heure Vladivostok";
 $lang['UP105']	= "(UTC +10:30) L'&icirc;le de Lord How";
-$lang['UP11']	= "(UTC + 11:00) Heure Magadan, heure Nouvelle-Calédonie, &Icirc;les Salomon";
+$lang['UP11']	= "(UTC + 11:00) Heure Magadan, heure Nouvelle-Cal&eacute;donie, &Icirc;les Salomon";
 $lang['UP115']	= '(UTC +11:30) &Icirc;le Norfolk';
 $lang['UP12']	= "(UTC + 12:00) Heure Fidji, &Icirc;les Gilbert, Kamchatka, heure normale de la Nouvelle-Z&eacute;lande";
 $lang['UP1275']	= '(UTC +12:45) Heure normale des &Icirc;les Chatham';
 $lang['UP13']	= "(UTC +13:00) Heure normale des &Icirc;les Ph&eacute;nix, heure Tonga";
 $lang['UP14']	= "(UTC +14:00) Heure normale des &Icirc;les Line";
+
 
 /* End of file date_lang.php */
 /* Location: ./system/language/french/date_lang.php */
