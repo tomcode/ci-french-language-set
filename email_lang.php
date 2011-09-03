@@ -17,6 +17,7 @@ $lang['email_failed_smtp_login'] = "Echec lors de l'envoi de la commande AUTH LO
 $lang['email_smtp_auth_un'] = "Impossible d'identifier le nom d'utilisateur. Erreur: %s";
 $lang['email_smtp_auth_pw'] = "Impossible d'identifier le mot de passe. Erreur: %s";
 $lang['email_smtp_data_failure'] = "Impossible d'envoyer les donn&eacute;es: %s";
+$lang['email_exit_status'] = "Code de l'&euml; d'exit : %s";
 
 
 /* End of file email_lang.php */
