@@ -3,6 +3,7 @@
 $lang['required'] 		= "Le champ %s est requis.";
 $lang['isset']			= "Le champ %s doit avoir une valeur.";
 $lang['valid_email']	= "Le champ %s doit contenir une adresse email valide.";
+$lang['valid_emails'] 	= "Le champ %s ne peut contenir que des adresses email valides.";
 $lang['valid_url'] 		= "Le champ %s doit contenir une URL valide.";
 $lang['valid_ip'] 		= "Le champ %s doit contenir une IP valide.";
 $lang['min_length']		= "Le champ %s doit contenir au minimum %s caract&egrave;res.";
