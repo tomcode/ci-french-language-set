@@ -19,6 +19,9 @@ $lang['regex_match']		= "Le champ %s field n'utilise pas le bon format.";
 $lang['matches']			= "Le champ %s doit correspondre au champ %s.";
 $lang['is_natural']			= "Le champ %s ne peut contenir que des nombres positifs.";
 $lang['is_natural_no_zero']	= "Le champ %s ne peut contenir que des nombres plus grand que z&eacute;.";
+$lang['decimal']			= "Le champ %s doit contenir un nombre d&eacute;cimal.";
+$lang['less_than']			= "Le champ %s doit contenir un nombre inf&eacute;rieur &agrave; %s.";
+$lang['greater_than']		= "Le champ %s doit contenir un nombre sup&eacute;rieur &agrave; %s.";
 
 
 /* End of file form_validation_lang.php */
