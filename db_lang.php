@@ -20,7 +20,8 @@ $lang['db_invalid_cache_path'] = 'Le chemin de mise en cache soumis n\'est pas v
 $lang['db_table_name_required'] = 'Un nom de table est requis pour cette op&eacute;ration.';
 $lang['db_column_name_required'] = 'Un nom de colonne est requis pour cette op&eacute;ration.';
 $lang['db_column_definition_required'] = 'Une d&eacute;finition d\'une colonne est requise pour cette op&eacute;ration.';
-$lang['db_unable_to_set_charset'] = 'Impossible de d&eacute;finir le jeu de caract&egrave;res de la connexion client: %s';
+$lang['db_unable_to_set_charset'] = 'Impossible de d&eacute;finir le jeu de caract&eagrave;res de la connexion client: %s';
+$lang['db_error_heading'] = 'Une erreur de la base de donn&eacute;es s\'est produite.';
 
-
-?>
+/* End of file db_lang.php */
+/* Location: ./system/language/french/db_lang.php */

@@ -12,4 +12,6 @@ $lang['scaff_no']				= 'Non';
 $lang['scaff_no_data']			= 'Il n\'y a pas encore de donn&eacute;es pour cette table.';
 $lang['scaff_del_confirm']		= 'Etes-vous s&ucirc;r(e) de vouloir supprimer cette entr&eacute;e:';
 
-?>
+
+/* End of file scaffolding_lang.php */
+/* Location: ./system/language/french/scaffolding_lang.php */

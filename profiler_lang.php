@@ -13,4 +13,6 @@ $lang['profiler_no_get']		= "Aucune donn&eacute;e GET n'existe";
 $lang['profiler_no_uri']		= "Aucune donn&eacute;e URI n'existe";
 $lang['profiler_no_memory']		= "Utilisation de la m&eacute;moire indisponible";
 
-?>
+
+/* End of file profiler_lang.php */
+/* Location: ./system/language/french/profiler_lang.php */

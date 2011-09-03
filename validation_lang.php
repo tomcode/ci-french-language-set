@@ -15,4 +15,6 @@ $lang['numeric']		= "Le champ %s doit contenir un nombre (caract&egrave;res num&
 $lang['integer']		= "Le champ %s doit contenir un integer.";
 $lang['matches']		= "Le champ %s doit correspondre au champ %s.";
 
-?>
+
+/* End of file validation_lang.php */
+/* Location: ./system/language/french/validation_lang.php */

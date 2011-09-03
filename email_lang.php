@@ -18,4 +18,6 @@ $lang['email_smtp_auth_un'] = "Impossible d'identifier le nom d'utilisateur. Err
 $lang['email_smtp_auth_pw'] = "Impossible d'identifier le mot de passe. Erreur: %s";
 $lang['email_smtp_data_failure'] = "Impossible d'envoyer les donn&eacute;es: %s";
 
-?>
+
+/* End of file email_lang.php */
+/* Location: ./system/language/french/email_lang.php */

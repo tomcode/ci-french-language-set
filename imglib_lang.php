@@ -11,11 +11,13 @@ $lang['imglib_jpg_or_png_required'] = "Le protocole de redimensionnement sp&eacu
 $lang['imglib_copy_error'] = "Une erreur est survenue lors du remplacement du fichier. Veuillez v&eacute;rifier les permissions d'&eacute;criture de votre r&eacute;pertoire.";
 $lang['imglib_rotate_unsupported'] = "Votre serveur ne supporte apparemment pas la rotation d'images.";
 $lang['imglib_libpath_invalid'] = "Le chemin d'acc&egrave;s &agrave; votre librairie de traitement d'image n'est pas correct. Veuillez indiquer le chemin correct dans vos pr&eacute;f&eacute;rences.";
-$lang['imglib_image_process_failed'] = "Le traitement de l'image a &eacute;chou&eacute;. Veuillez v&eacute;rifier que votre serveur supporte le protocole choisi et que le chemin d'acc&egrave;s &agrave; votre librairie de traitement d'image est correcte.";
+$lang['imglib_image_process_failed'] = "Le traitement de l'image a &eacute;chou&eacute;. Veuillez v&eacute;rifier que votre serveur supporte le protocole choisi et que le chemin d'acc&egrave;s &agrave; votre librairie de traitement d'image est correct.";
 $lang['imglib_rotation_angle_required'] = "Un angle de rotation doit &ecirc;tre indiqu&eacute; pour effectuer cette transformation sur l'image.";
-$lang['imglib_writing_failed_gif'] = "L'image GIF n'a pas pu &ecirc;tre cr&eacute;&eacute;e.";
+$lang['imglib_writing_failed_gif'] = "Image GIF ";
 $lang['imglib_invalid_path'] = "Le chemin d'acc&egrave;s &agrave; l'image est incorrect.";
 $lang['imglib_copy_failed'] = "Le processus de copie d'image a &eacute;chou&eacute;.";
 $lang['imglib_missing_font'] = "Impossible de trouver une police de caract&egrave;res utilisable.";
 
-?>
+
+/* End of file imglib_lang.php */
+/* Location: ./system/language/french/imglib_lang.php */
