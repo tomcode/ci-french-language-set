@@ -14,6 +14,4 @@ To just download a specific version as .zip:
 1. Choose the version in the branch dropdown
 2. Download the selected version by clicking on the ZIP button
 
-You find other sources of CodeIgniter language files / translations on the [Language Translation](https://github.com/EllisLab/CodeIgniter/wiki/Language-Translation).
-
-
+You find other sources of CodeIgniter language files / translations on the CodeIgniter Wiki [Language Translation](https://github.com/EllisLab/CodeIgniter/wiki/Language-Translation).
