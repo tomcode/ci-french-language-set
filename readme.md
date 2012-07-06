@@ -9,6 +9,11 @@ Each release exists as tag (current CI convention) and as branch (more suitable 
 
 From time to time I synch CodeIgniter's develop branch with this master branch and translate the added entries. As of now I do not use a develop branch on remote.
 
-You'll find other sources of CodeIgniter language files on the [CodeIgniter Wiki, International sources](http://codeigniter.com/wiki/Language_Translation/).
+To just download a specific version as .zip:
+
+1. Choose the version in the branch dropdown
+2. Download the selected version by clicking on the ZIP button
+
+You find other sources of CodeIgniter language files / translations on the [Language Translation](https://github.com/EllisLab/CodeIgniter/wiki/Language-Translation).
 
 
