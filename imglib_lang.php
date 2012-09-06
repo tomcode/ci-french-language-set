@@ -17,7 +17,7 @@ $lang['imglib_writing_failed_gif'] = "Image GIF ";
 $lang['imglib_invalid_path'] = "Le chemin d'acc&egrave;s &agrave; l'image est incorrect.";
 $lang['imglib_copy_failed'] = "Le processus de copie d'image a &eacute;chou&eacute;.";
 $lang['imglib_missing_font'] = "Impossible de trouver une police de caract&egrave;res utilisable.";
-$lang['imglib_save_failed'] = "Impossible d'enregistrer l'image. V&eacute;rifiez que l'image et le dossier disposent des dr&eacute;its d'&eacute;criture.";
+$lang['imglib_save_failed'] = "Impossible d'enregistrer l'image. V&eacute;rifiez que l'image et le dossier disposent des droits d'&eacute;criture.";
 
 
 /* End of file imglib_lang.php */
