@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['profiler_database']		  = 'BASE DE DONNEES';
 $lang['profiler_controller_info'] = 'CLASS/METHODE';

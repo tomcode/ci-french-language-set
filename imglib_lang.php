@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['imglib_source_image_required'] = "Vous devez sp&eacute;cifier une image source dans vos pr&eacute;f&eacute;rences.";
 $lang['imglib_gd_required'] = "La librairie GD est requise pour cette fonctionnalit&eacute;.";

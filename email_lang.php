@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['email_must_be_array'] = "La m&eacute;thode de validation d'email n'accepte que les tableaux associatifs (array).";
 $lang['email_invalid_address'] = "Adresse email invalide: %s";
@@ -17,7 +17,7 @@ $lang['email_failed_smtp_login'] = "Echec lors de l'envoi de la commande AUTH LO
 $lang['email_smtp_auth_un'] = "Impossible d'identifier le nom d'utilisateur. Erreur: %s";
 $lang['email_smtp_auth_pw'] = "Impossible d'identifier le mot de passe. Erreur: %s";
 $lang['email_smtp_data_failure'] = "Impossible d'envoyer les donn&eacute;es: %s";
-$lang['email_exit_status'] = "Code d'état de sortie : %s";
+$lang['email_exit_status'] = "Code d'&eacute;tat de sortie : %s";
 
 
 /* End of file email_lang.php */

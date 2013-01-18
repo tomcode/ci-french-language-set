@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['db_invalid_connection_str'] = 'Impossible de d&eacute;terminer les param&egrave;tres d\'acc&egrave;s &agrave; la base de donn&eacute;es en se basant sur la cha&icirc;ne de connexion que vous avez soumise.';
 $lang['db_unable_to_connect'] = 'Impossible de se connecter &agrave; la base de donn&eacute;es en utilisant les param&egrave;tres fournis.';

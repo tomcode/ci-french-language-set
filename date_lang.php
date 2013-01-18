@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['date_year'] = "Ann&eacute;e";
 $lang['date_years'] = "Ann&eacute;es";
