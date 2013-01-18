@@ -1,30 +1,31 @@
 <?php
 
-$lang['required']				= "Le champ %s est requis.";
-$lang['isset']					= "Le champ %s doit avoir une valeur.";
-$lang['valid_email']			= "Le champ %s doit contenir une adresse email valide.";
-$lang['valid_emails']			= "Le champ %s ne peut contenir que des adresses email valides.";
-$lang['valid_url']				= "Le champ %s doit contenir une URL valide.";
-$lang['valid_ip']				= "Le champ %s doit contenir une IP valide.";
-$lang['min_length']				= "Le champ %s doit contenir au moins %s caract&egrave;res.";
-$lang['max_length']				= "Le champ %s ne peut contenir plus de %s caract&egrave;res.";
-$lang['exact_length']			= "Le champ %s doit contenir exactement %s caract&egrave;res.";
-$lang['alpha']					= "Le champ %s ne peut contenir que des caract&egrave;res alphab&eacute;tiques.";
-$lang['alpha_numeric']			= "Le champ %s ne peut contenir que des caract&egrave;res alphanum&eacute;riques.";
-$lang['alpha_dash']				= "Le champ %s ne peut contenir que des caract&egrave;res alphanum&eacute;riques, des tirets bas (underscore) et des traits d'union.";
-$lang['numeric']				= "Le champ %s doit contenir un nombre (caract&egrave;res num&eacute;riques).";
-$lang['is_numeric']				= "Le champ %s ne peut contenir que des signes du type nombre.";
-$lang['integer']				= "Le champ %s doit contenir un integer.";
-$lang['regex_match']			= "Le champ %s n'utilise pas le bon format.";
-$lang['matches']				= "Le champ %s doit correspondre au champ %s.";
-$lang['is_unique'] 				= "Le champ %s doit contenir une valeur unique.";
-$lang['is_natural']				= "Le champ %s ne peut contenir que des nombres positifs.";
-$lang['is_natural_no_zero']		= "Le champ %s ne peut contenir que des nombres plus grands que z&eacute;ro.";
-$lang['decimal']				= "Le champ %s doit contenir un nombre d&eacute;cimal.";
-$lang['less_than']				= "Le champ %s doit contenir un nombre inf&eacute;rieur &agrave; %s.";
-$lang['less_than_equal_to']		= "Le champ %s doit contenir un nombre inf&eacute;rieur ou &eacute;gal &agrave; %s.";
-$lang['greater_than']			= "Le champ %s doit contenir un nombre sup&eacute;rieur &agrave; %s.";
-$lang['greater_than_equal_to']	= "Le champ %s doit contenir un nombre sup&eacute;rieur ou &eacute;gal &agrave; %s.";
+$lang['form_validation_required']				= "Le champ {field} est requis.";
+$lang['form_validation_isset']					= "Le champ {field} doit avoir une valeur.";
+$lang['form_validation_valid_email']			= "Le champ {field} doit contenir une adresse email valide.";
+$lang['form_validation_valid_emails']			= "Le champ {field} ne peut contenir que des adresses email valides.";
+$lang['form_validation_valid_url']				= "Le champ {field} doit contenir une URL valide.";
+$lang['form_validation_valid_ip']				= "Le champ {field} doit contenir une IP valide.";
+$lang['form_validation_min_length']				= "Le champ {field} doit contenir au moins {field} caract&egrave;res.";
+$lang['form_validation_max_length']				= "Le champ {field} ne peut contenir plus de {field} caract&egrave;res.";
+$lang['form_validation_exact_length']			= "Le champ {field} doit contenir exactement {field} caract&egrave;res.";
+$lang['form_validation_alpha']					= "Le champ {field} ne peut contenir que des caract&egrave;res alphab&eacute;tiques.";
+$lang['form_validation_alpha_numeric']			= "Le champ {field} ne peut contenir que des caract&egrave;res alphanum&eacute;riques.";
+$lang['form_validation_alpha_dash']				= "Le champ {field} ne peut contenir que des caract&egrave;res alphanum&eacute;riques, des tirets bas (underscore) et des traits d'union.";
+$lang['form_validation_numeric']				= "Le champ {field} doit contenir un nombre (caract&egrave;res num&eacute;riques).";
+$lang['form_validation_is_numeric']				= "Le champ {field} ne peut contenir que des signes du type nombre.";
+$lang['form_validation_integer']				= "Le champ {field} doit contenir un integer.";
+$lang['form_validation_regex_match']			= "Le champ {field} n'utilise pas le bon format.";
+$lang['form_validation_matches']				= "Le champ {field} doit correspondre au champ {field}.";
+$lang['form_validation_differs']				= 'Le champ {field} doit être différent du champ {param}.';
+$lang['form_validation_is_unique'] 				= "Le champ {field} doit contenir une valeur unique.";
+$lang['form_validation_is_natural']				= "Le champ {field} ne peut contenir que des nombres positifs.";
+$lang['form_validation_is_natural_no_zero']		= "Le champ {field} ne peut contenir que des nombres plus grands que z&eacute;ro.";
+$lang['form_validation_decimal']				= "Le champ {field} doit contenir un nombre d&eacute;cimal.";
+$lang['form_validation_less_than']				= "Le champ {field} doit contenir un nombre inf&eacute;rieur &agrave; {field}.";
+$lang['form_validation_less_than_equal_to']		= "Le champ {field} doit contenir un nombre inf&eacute;rieur ou &eacute;gal &agrave; {field}.";
+$lang['form_validation_greater_than']			= "Le champ {field} doit contenir un nombre sup&eacute;rieur &agrave; {field}.";
+$lang['form_validation_greater_than_equal_to']	= "Le champ {field} doit contenir un nombre sup&eacute;rieur ou &eacute;gal &agrave; {field}.";
 
 
 /* End of file form_validation_lang.php */
