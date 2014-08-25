@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['profiler_database']		  = 'BASE DE DONNEES';
 $lang['profiler_controller_info'] = 'CLASS/METHODE';
@@ -20,7 +20,6 @@ $lang['profiler_no_memory']		= 'Utilisation de la m&eacute;moire indisponible';
 $lang['profiler_no_profiles']	= 'Pas de donn&eacute;es du profil - toute section est d&eacute;sactiv&eacute;e.';
 $lang['profiler_section_hide']	= 'Cacher';
 $lang['profiler_section_show']	= 'Montrer';
-$lang['profiler_seconds']		= 'secondes';
 
 /* End of file profiler_lang.php */
 /* Location: ./system/language/french/profiler_lang.php */

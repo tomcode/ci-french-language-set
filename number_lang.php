@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['terabyte_abbr'] = "To";
 $lang['gigabyte_abbr'] = "Go";

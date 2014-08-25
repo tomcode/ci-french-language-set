@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['db_invalid_connection_str'] = 'Impossible de d&eacute;terminer les param&egrave;tres d\'acc&egrave;s &agrave; la base de donn&eacute;es en se basant sur la cha&icirc;ne de connexion que vous avez soumise.';
 $lang['db_unable_to_connect'] = 'Impossible de se connecter &agrave; la base de donn&eacute;es en utilisant les param&egrave;tres fournis.';
@@ -15,8 +15,8 @@ $lang['db_field_param_missing'] = 'La m&eacute;thode fetch_fields requiert le no
 $lang['db_unsupported_function'] = 'Cette fonctionnalit&eacute; n\'est pas disponible pour la base de donn&eacute;es utilis&eacute;e.';
 $lang['db_transaction_failure'] = 'Erreur de transaction: la transaction est annul&eacute;e';
 $lang['db_unable_to_drop'] = 'Impossible d\'effacer la base de donn&eacute;es sp&eacute;cifi&eacute;e.';
-$lang['db_unsupported_feature'] = 'Cette fonctionnalit&eacute; n\'est pas soutenue par la plate-forme de base de donn&eacute;es utilis&eacute;e.';
-$lang['db_unsupported_compression'] = 'Le format de compression choisi n\'est pas soutenu par votre serveur. ';
+$lang['db_unsuported_feature'] = 'Cette fonctionnalit&eacute; n\'est pas soutenue par la plate-forme de base de donn&eacute;es utilis&eacute;e.';
+$lang['db_unsuported_compression'] = 'Le format de compression choisi n\'est pas soutenu par votre serveur. ';
 $lang['db_filepath_error'] = 'Impossible d\'&eacute;crire des donn&eacute;es au chemin de fichiers indiqu&eacute;.';
 $lang['db_invalid_cache_path'] = 'Le chemin de mise en cache soumis n\'est pas valide ou n\'est pas inscriptible.';
 $lang['db_table_name_required'] = 'Un nom de table est requis pour cette op&eacute;ration.';

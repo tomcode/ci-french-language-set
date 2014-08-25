@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['email_must_be_array'] = "La m&eacute;thode de validation d'email n'accepte que les tableaux associatifs (array).";
 $lang['email_invalid_address'] = "Adresse email invalide: %s";
